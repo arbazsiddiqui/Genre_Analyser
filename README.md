@@ -8,7 +8,7 @@ Beautiful Soup
 Change the url to whatever list you want to analyse. Run the script and it will generate two csv files.    
 Here is a sample analyst i have done on major movies of 2015:
 
-####Movie   Avg_rating    
+####Genre   Avg_rating    
 Mystery	5.25    
 Romance	6.575   
 Sport	7.5   
