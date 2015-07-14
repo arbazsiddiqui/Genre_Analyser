@@ -6,7 +6,7 @@ Beautiful Soup
 
 ###How to use :
 Change the url to whatever list you want to analyse. Run the script and it will generate two csv files.    
-Here is a sample analyst i have done on major movies of 2015:
+Here is a sample analysis i have done on major movies of 2015:
 
 ####Genre   Avg_rating    
 Mystery	5.25    
@@ -27,3 +27,4 @@ War	9.4
 Thriller	6.445   
 History	9.4   
 
+ 
